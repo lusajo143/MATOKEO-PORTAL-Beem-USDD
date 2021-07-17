@@ -1,7 +1,7 @@
 # MATOKEO-PORTAL-Beem-USDD
 Matokeo portal uses Beem USSD Api to deliver student results from student management system.
 
-## How to Get Started
+## How to Get Started ❓
 1. First run node student-management-system.js
 2. Then run ##node beem-ussd.js
 
