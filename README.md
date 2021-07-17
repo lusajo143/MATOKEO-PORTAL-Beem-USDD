@@ -15,4 +15,4 @@ It was tested in the following environment setup:
 node version 16
 ```
 ## Video Demo Link
-(https://drive.google.com/file/d/1xFhviKF8Frmoi0ZAxwYk7yr4T4qNGNqK/view?usp=sharing)
+[Link to live demo](https://drive.google.com/file/d/1xFhviKF8Frmoi0ZAxwYk7yr4T4qNGNqK/view?usp=sharing)
